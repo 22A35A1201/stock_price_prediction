@@ -1,0 +1,12 @@
+Flask
+Flask-Session
+mysql-connector-python
+yfinance
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+plotly
+APScheduler
